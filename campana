@@ -4,7 +4,7 @@
     <title>Campana</title>
 </head>
 <body>
-    <audio id="campana-audio" src="ruta_al_archivo_de_audio/campana.mp3"></audio>
+    <audio id="campana-audio" src="Timbre.mp3"></audio>
     <script>
         window.onload = function() {
             document.getElementById('campana-audio').play();
